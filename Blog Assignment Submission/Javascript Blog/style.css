@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+    font-family: tahoma;
+}
+.blogpost{
+    background-color: grey;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+
+form{
+	text-align: center;
+}
+
+hr{
+	border-color: white;
+}
+
+form p{
+	font-size: 2rem;
+	font-weight: 700;
+	color: white;
+}
+form input{
+	width: 300px;
+	height: 50px;
+}
+
+form textarea{
+	width: 300px;
+	height: 200px
+}
+
+form button{
+	width: 305px;
+	height: 50px;
+	text-align: center;
+	font-size: 2rem;
+	cursor: pointer;
+	background-color: black;
+	color: white;
+}
+
